@@ -1,5 +1,6 @@
-# Analiza zbioru danych: German Credit Data
 ![Obrazek](foto_GermanCreditData.png)
+# Analiza zbioru danych: German Credit Data
+
 Analiza zbioru danych German Credit Data z użyciem metod uczenia maszynowego do klasyfikacji danych. 
 
 Zbiór danych jest dostępny na stronie UCI Machine Learning Repository: https://archive.ics.uci.edu/ml/datasets/Statlog+%28German+Credit+Data%29
